@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LearningRxJavaJointEvaluation</string>
+    <string name="name">请填写姓名</string>
+    <string name="age">请填写年龄</string>
+    <string name="job">请填写职业</string>
+    <string name="submit">提交</string>
+</resources>
